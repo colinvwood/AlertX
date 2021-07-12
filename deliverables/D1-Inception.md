@@ -2,13 +2,7 @@
 
 ## 1. Introduction
 
-### Rubric (Remove when section is complete): 
-
-Describe in one paragraph what your project is about.Make it clear what problem your software is solving and the context of the solution. 
-
-Grading: 5  points. Your  paragraph  should  be  well written in formal language and  must contain all the required information. Be clear, concise, and check for typos and grammar errors.
-
-AlertX is a inventory alert system that intends to give customers a greater opportunity at obtaining a specifed item that is, seemingly, always out of stock. Recently, a lot of markets have been dried up and left many consumers struggling to purchase their desired products; Through the use of retail API's, we can give our customers the upper-hand by alerting them as soon as their specified product comes back into stock. Notifications can be customized to be delivered via email or SMS (or both) to best suite your needs. 
+Tired of sitting around refreshing pages? AlertX is a inventory alert system that intends to give customers a greater opportunity at obtaining a specifed item that is, seemingly, always out of stock. Recently, markets have been dried up and left many consumers struggling to purchase their desired products; Through the use of retail API's, we can give our customers the upper-hand by alerting them as soon as their specified product comes back into stock. Notifications can be customized to be delivered via email or SMS (or both) to best suite your needs. 
 
 ## 2. Initial value proposition and customer segments
 
